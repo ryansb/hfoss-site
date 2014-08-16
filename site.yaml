@@ -1,5 +1,5 @@
 course:
-    name: HFOSS
+    name: HFOSSTESTINGGIT
     desc: The RIT Humanitarian Free/Open Source Software Development Course
     place: RIT
     start: 2014-09-25
@@ -7,6 +7,8 @@ course:
     times: Tues & Thurs 6:30PM - 7:45PM
     course: 4085.582.01
     location: Orange Hall (ORN)-1380
+    openshift:
+        git_url: ssh://53efb1804382ec6a4b000584@hfoss-ryansb.rhcloud.com/~/git/hfoss.git/
 
 instructor:
     name: Remy DeCausemaker
