@@ -67,11 +67,16 @@ modifications you made to the files actually renders
 the way you want.
 
 In order to do that, first make sure you have your 
-virtualenv activated.
+virtualenv activated. And the hflossk pip module installed.
+
+To install the hflossk pip module simply run:
+```
+sudo easy_install hflossk
+```
 
 Being certain of that, in the root directory, simply run:
 ```
-python app.py
+hflossk run
 ```
 
 You *should* see a success message such as
